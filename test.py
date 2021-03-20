@@ -1,14 +1,3 @@
-# --------------------------------------------------------------------------
-# ------------  Metody Systemowe i Decyzyjne w Informatyce  ----------------
-# --------------------------------------------------------------------------
-#  Zadanie 3: Regresja logistyczna
-#  autorzy: A. Gonczarek, J. Kaczmar, S. Zareba
-#  2017
-# --------------------------------------------------------------------------
-# --------------------------------------------------------------------------
-# ----------------- TEN PLIK MA POZOSTAĆ NIEZMODYFIKOWANY ------------------
-# --------------------------------------------------------------------------
-
 import functools
 import pickle
 from unittest import TestCase, TestSuite, TextTestRunner, defaultTestLoader
